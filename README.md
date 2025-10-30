@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![stackbuddyai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stackbuddyai&include_all_commits=true&count_private=true&theme=cobalt)
